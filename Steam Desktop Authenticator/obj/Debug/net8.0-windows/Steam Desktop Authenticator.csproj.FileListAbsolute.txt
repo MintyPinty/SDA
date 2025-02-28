@@ -1,0 +1,36 @@
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\bin\Debug\net8.0-windows\Steam Desktop Authenticator.exe
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\bin\Debug\net8.0-windows\Steam Desktop Authenticator.dll.config
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\bin\Debug\net8.0-windows\Steam Desktop Authenticator.deps.json
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\bin\Debug\net8.0-windows\Steam Desktop Authenticator.runtimeconfig.json
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\bin\Debug\net8.0-windows\Steam Desktop Authenticator.dll
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\bin\Debug\net8.0-windows\Steam Desktop Authenticator.pdb
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\bin\Debug\net8.0-windows\CommandLine.dll
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\bin\Debug\net8.0-windows\protobuf-net.dll
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\bin\Debug\net8.0-windows\protobuf-net.Core.dll
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\bin\Debug\net8.0-windows\SteamKit2.dll
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\bin\Debug\net8.0-windows\System.IO.Hashing.dll
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\bin\Debug\net8.0-windows\SteamAuth.dll
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\bin\Debug\net8.0-windows\SteamAuth.pdb
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Debug\net8.0-windows\Steam Desktop Authenticator.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Debug\net8.0-windows\Steam_Desktop_Authenticator.CaptchaForm.resources
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Debug\net8.0-windows\Steam_Desktop_Authenticator.ConfirmationFormWeb.resources
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Debug\net8.0-windows\Steam_Desktop_Authenticator.ImportAccountForm.resources
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Debug\net8.0-windows\Steam_Desktop_Authenticator.InputForm.resources
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Debug\net8.0-windows\Steam_Desktop_Authenticator.ListInputForm.resources
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Debug\net8.0-windows\Steam_Desktop_Authenticator.LoginForm.resources
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Debug\net8.0-windows\Steam_Desktop_Authenticator.MainForm.resources
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Debug\net8.0-windows\Steam_Desktop_Authenticator.PhoneInputForm.resources
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Debug\net8.0-windows\Steam_Desktop_Authenticator.SettingsForm.resources
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Debug\net8.0-windows\Steam_Desktop_Authenticator.TradePopupForm.resources
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Debug\net8.0-windows\Steam_Desktop_Authenticator.WelcomeForm.resources
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Debug\net8.0-windows\Steam Desktop Authenticator.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Debug\net8.0-windows\Steam Desktop Authenticator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Debug\net8.0-windows\Steam Desktop Authenticator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Debug\net8.0-windows\Steam Desktop Authenticator.sourcelink.json
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Debug\net8.0-windows\Steam De.927FA2DB.Up2Date
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Debug\net8.0-windows\Steam Desktop Authenticator.dll
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Debug\net8.0-windows\refint\Steam Desktop Authenticator.dll
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Debug\net8.0-windows\Steam Desktop Authenticator.pdb
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Debug\net8.0-windows\Steam Desktop Authenticator.genruntimeconfig.cache
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Debug\net8.0-windows\ref\Steam Desktop Authenticator.dll

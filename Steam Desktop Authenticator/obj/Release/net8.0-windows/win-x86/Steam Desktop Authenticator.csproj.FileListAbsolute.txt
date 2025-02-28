@@ -1,0 +1,33 @@
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\bin\Release\net8.0-windows\win-x86\Steam Desktop Authenticator.exe
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\bin\Release\net8.0-windows\win-x86\Steam Desktop Authenticator.dll.config
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\bin\Release\net8.0-windows\win-x86\Steam Desktop Authenticator.deps.json
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\bin\Release\net8.0-windows\win-x86\Steam Desktop Authenticator.runtimeconfig.json
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\bin\Release\net8.0-windows\win-x86\Steam Desktop Authenticator.dll
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\bin\Release\net8.0-windows\win-x86\CommandLine.dll
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\bin\Release\net8.0-windows\win-x86\Newtonsoft.Json.dll
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\bin\Release\net8.0-windows\win-x86\protobuf-net.dll
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\bin\Release\net8.0-windows\win-x86\protobuf-net.Core.dll
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\bin\Release\net8.0-windows\win-x86\SteamKit2.dll
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\bin\Release\net8.0-windows\win-x86\System.IO.Hashing.dll
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\bin\Release\net8.0-windows\win-x86\SteamAuth.dll
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\bin\Release\net8.0-windows\win-x86\SteamAuth.pdb
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Release\net8.0-windows\win-x86\Steam Desktop Authenticator.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Release\net8.0-windows\win-x86\Steam_Desktop_Authenticator.CaptchaForm.resources
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Release\net8.0-windows\win-x86\Steam_Desktop_Authenticator.ConfirmationFormWeb.resources
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Release\net8.0-windows\win-x86\Steam_Desktop_Authenticator.ImportAccountForm.resources
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Release\net8.0-windows\win-x86\Steam_Desktop_Authenticator.InputForm.resources
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Release\net8.0-windows\win-x86\Steam_Desktop_Authenticator.ListInputForm.resources
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Release\net8.0-windows\win-x86\Steam_Desktop_Authenticator.LoginForm.resources
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Release\net8.0-windows\win-x86\Steam_Desktop_Authenticator.MainForm.resources
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Release\net8.0-windows\win-x86\Steam_Desktop_Authenticator.PhoneInputForm.resources
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Release\net8.0-windows\win-x86\Steam_Desktop_Authenticator.SettingsForm.resources
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Release\net8.0-windows\win-x86\Steam_Desktop_Authenticator.TradePopupForm.resources
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Release\net8.0-windows\win-x86\Steam_Desktop_Authenticator.WelcomeForm.resources
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Release\net8.0-windows\win-x86\Steam Desktop Authenticator.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Release\net8.0-windows\win-x86\Steam Desktop Authenticator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Release\net8.0-windows\win-x86\Steam Desktop Authenticator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Release\net8.0-windows\win-x86\Steam De.927FA2DB.Up2Date
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Release\net8.0-windows\win-x86\Steam Desktop Authenticator.dll
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Release\net8.0-windows\win-x86\refint\Steam Desktop Authenticator.dll
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Release\net8.0-windows\win-x86\Steam Desktop Authenticator.genruntimeconfig.cache
+C:\Users\User\Desktop\CS Projects\SDA-Fix\Steam Desktop Authenticator\obj\Release\net8.0-windows\win-x86\ref\Steam Desktop Authenticator.dll
