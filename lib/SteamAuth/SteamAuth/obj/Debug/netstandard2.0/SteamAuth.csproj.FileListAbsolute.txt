@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\CS Projects\SDA-Fix\lib\SteamAuth\SteamAuth\bin\Debug\netstandard2.0\SteamAuth.deps.json
+C:\Users\User\Desktop\CS Projects\SDA-Fix\lib\SteamAuth\SteamAuth\bin\Debug\netstandard2.0\SteamAuth.dll
+C:\Users\User\Desktop\CS Projects\SDA-Fix\lib\SteamAuth\SteamAuth\bin\Debug\netstandard2.0\SteamAuth.pdb
+C:\Users\User\Desktop\CS Projects\SDA-Fix\lib\SteamAuth\SteamAuth\obj\Debug\netstandard2.0\SteamAuth.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CS Projects\SDA-Fix\lib\SteamAuth\SteamAuth\obj\Debug\netstandard2.0\SteamAuth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CS Projects\SDA-Fix\lib\SteamAuth\SteamAuth\obj\Debug\netstandard2.0\SteamAuth.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CS Projects\SDA-Fix\lib\SteamAuth\SteamAuth\obj\Debug\netstandard2.0\SteamAuth.AssemblyInfo.cs
+C:\Users\User\Desktop\CS Projects\SDA-Fix\lib\SteamAuth\SteamAuth\obj\Debug\netstandard2.0\SteamAuth.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CS Projects\SDA-Fix\lib\SteamAuth\SteamAuth\obj\Debug\netstandard2.0\SteamAuth.sourcelink.json
+C:\Users\User\Desktop\CS Projects\SDA-Fix\lib\SteamAuth\SteamAuth\obj\Debug\netstandard2.0\SteamAuth.dll
+C:\Users\User\Desktop\CS Projects\SDA-Fix\lib\SteamAuth\SteamAuth\obj\Debug\netstandard2.0\SteamAuth.pdb

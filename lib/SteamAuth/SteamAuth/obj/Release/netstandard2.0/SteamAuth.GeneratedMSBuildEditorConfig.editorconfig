@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = SteamAuth
+build_property.ProjectDir = C:\Users\User\Desktop\CS Projects\SDA-Fix\lib\SteamAuth\SteamAuth\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
